@@ -1,0 +1,32 @@
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThemLop.resources
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\EntityFramework.dll
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\EntityFramework.xml
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+C:\Users\GF63 Thin 9SC\source\repos\QLSV\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThemSV.resources
+D:\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\bin\Debug\EntityFramework.xml
+D:\QuanLySinhVien\bin\Debug\EntityFramework.SqlServer.xml
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThemLop.resources
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.ThemSV.resources
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CopyComplete
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
